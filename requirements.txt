@@ -1,0 +1,5 @@
+crewai
+streamlit
+google-generativeai
+youtube-transcript-api
+langchain-community
