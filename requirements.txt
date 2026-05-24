@@ -1,5 +1,4 @@
-crewai
 streamlit
-google-generativeai
+groq
 youtube-transcript-api
-langchain-community
+python-dotenv
